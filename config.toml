@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Rocker Science"
-baseurl = "https://rocker.science/"
+#baseurl = "https://rocker.science/"
 
 [params]
   linkedinProfileURL = "https://www.linkedin.com/in/paolo-serra/"
