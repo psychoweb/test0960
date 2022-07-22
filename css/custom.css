@@ -1,0 +1,16 @@
+.poiretone { font-family:'Poiret One', cursive; }
+.eczar { font-family: 'Eczar', serif; }
+.lora { font-family: 'Lora', serif; }
+.montserrat { font-family: 'Montserrat', sans-serif; }
+
+.slash-prefix:before, .slash-separated + .slash-separated:before {
+    content: "/";
+}
+
+.orange-prefix:before {
+    color: #FFDA61;
+}
+
+.b-prefix:before {
+    font-weight: bold;
+}
