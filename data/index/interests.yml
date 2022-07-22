@@ -1,0 +1,32 @@
+# The CSS animation is calculated on 5 elements. If the number changes here,
+# be sure to recalculate the animation timings as well.
+Interests:
+  - Name: IT
+    Description: an IT problem solver
+    URL: https://www.linkedin.com/in/paolo-serra/
+    Icon: icon-linkedin-squared
+    Title: My resume
+
+  - Name: Security
+    Description: a Security enthusiast
+    URL: https://keybase.io/psychoweb/
+    Icon: icon-key
+    Title: View my public PGP key and proofs at keybase.io
+
+  - Name: Music
+    Description: a multi-instrument musician
+    URL: https://last.fm/user/psychoweb
+    Icon: icon-note-beamed
+    Title: See my listening habits at last.fm
+
+  - Name: Chess
+    Description: a chess variants lover
+    URL: https://en.lichess.org/@/bishek
+    Icon: icon-chess-knight
+    Title: Play a game with me at lichess.org
+
+  - Name: Cardistry
+    Description: a novice cardist
+    URL: \#
+    Icon: icon-suit-clubs
+    Title: expect some pics soon about that...
