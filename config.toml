@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Rocker Science"
-#baseurl = "https://rocker.science/"
+baseurl = "https://psychoweb.github.io/test0960"
 
 [params]
   linkedinProfileURL = "https://www.linkedin.com/in/paolo-serra/"
