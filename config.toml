@@ -2,8 +2,6 @@ languageCode = "en-us"
 title = "Rocker Science"
 baseurl = "https://rocker.science/"
 
-publishDir = "docs"
-
 [params]
   linkedinProfileURL = "https://www.linkedin.com/in/paolo-serra/"
   keybaseProfileURL = "https://keybase.io/psychoweb/"
